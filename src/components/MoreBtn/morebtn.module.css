@@ -1,0 +1,17 @@
+.more{
+    background-color: transparent;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    /* padding: 10px 15px; */
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.outer{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin-right: 30px;
+    /* justify-content: center; */
+}
